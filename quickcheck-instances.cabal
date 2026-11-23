@@ -21,8 +21,8 @@ author:
   Antoine Latter <aslatter@gmail.com>, Oleg Grenrus <oleg.grenrus@iki.fi>
 
 maintainer:         Oleg Grenrus <oleg.grenrus@iki.fi>
-homepage:           https://github.com/haskellari/qc-instances
-bug-reports:        https://github.com/haskellari/qc-instances/issues
+homepage:           https://github.com/bmillwood/qc-instances
+bug-reports:        https://github.com/bmillwood/qc-instances/issues
 copyright:          Copyright 2012-2016 Antoine Latter, 2017-2019 Oleg Grenrus
 category:           Testing
 build-type:         Simple
@@ -40,7 +40,7 @@ tested-with:
 
 source-repository head
   type:     git
-  location: https://github.com/haskellari/qc-instances.git
+  location: https://github.com/bmillwood/qc-instances.git
 
 library
   default-language:   Haskell2010
